@@ -207,14 +207,12 @@ img {
     padding: 0;
     overflow: hidden;
 }
-
 .support-box ul li {
-    float: left;
-    width: 24.3%;
-    list-style: none;
-    position: relative;
-    padding: 10px 0;
-    margin-right: 10px;
+	float: left;
+	width: 33.33%;
+	list-style: none;
+	position: relative;
+	padding: 10px 0;
 }
 
 .support-box ul li:last-child {
